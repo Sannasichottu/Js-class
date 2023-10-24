@@ -68,3 +68,31 @@
 //for-in 
 //for-of
 
+// []  {}
+//for-in
+//object
+// const person = {
+//     name : 'tamil',
+//     age :7
+// }
+
+// for(let key in person){
+//     // console.log("Key : "+person[key]) //bracket notation
+//                                         // dot notation
+//     console.log("Key # "+person.name)
+// }
+
+
+//array
+// let colors = ['red','green','blue'];
+// for(let key in colors){
+//     console.log(colors[key])
+// }
+
+//for-of
+
+// let fruits = ['Apple','banana', 'mango'];
+
+// for(let fruit of fruits){
+//     console.log("Fruit : "+fruit)
+// }
